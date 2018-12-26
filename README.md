@@ -1,6 +1,6 @@
 # Thinkful Projects
 
-This repository would contain the  challenge and capstone projects made for submission to mentors during the time period of 2 weeks for the github student free beginner web developement  course from collbration of Github and Thinkful.
+This repository would contain the  challenge and capstone projects made for submission to mentors during the time period of 2 weeks for the github student free beginner web developement course courtsey of collbration of Github and Thinkful.
 
 
 
