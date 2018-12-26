@@ -6,7 +6,7 @@ This repository would contain the  challenge and capstone projects made for subm
 
 ## Contributing
 
-Any PRs for code quality improvement is appreciated. Thanks in advance to my mentor ***Noel Duarte***
+Any PRs for code quality improvement is appreciated. Thanks in advance to my mentor ***Noel Duarte***.
 
 ## License
 
