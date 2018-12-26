@@ -1,7 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
 nav {
     position: fixed;
     padding-left: 40px;
     padding-right: 40px;
     background-color:#EDEDED;
+    width: 100%;
+    
 
 }
+
+nav ul {
+    display: inline-block;
+    list-style: none;
+}
+
+nav li, p {
+    display: inline-block;
+}
+
+.right {
+    float: right;
+
+
+}
+
+a {
+    color: #753EA7;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.parent {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+input, label {
+    display: block;
+}
+
+label {
+    padding-bottom: 5px;
+    border-radius: 35%;
+    
+}
+
